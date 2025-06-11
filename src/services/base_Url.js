@@ -1,1 +1,1 @@
-export const base_Url="https://recipefe-trkk.vercel.app"
+export const base_Url="https://recipefe-2zga.vercel.app"
