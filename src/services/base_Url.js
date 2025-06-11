@@ -1,1 +1,1 @@
-export const base_Url="http://localhost:4500"
+export const base_Url="https://recipe-be-dun.vercel.app/"
