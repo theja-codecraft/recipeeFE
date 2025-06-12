@@ -1,1 +1,1 @@
-export const base_Url="https://recipefe-2zga.vercel.app"
+export const base_Url="https://recipe-be-n5v1.onrender.com"
